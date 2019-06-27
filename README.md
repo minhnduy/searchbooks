@@ -14,7 +14,7 @@ $ pip install requests
 ```bash
 $ pip install beautifulsoup4
 ```
-- Install [Json] package via `pip` command:
+- Install Json package via `pip` command:
 
 ```bash
 $ pip install json
@@ -24,22 +24,22 @@ $ pip install json
 ```bash
 $ pip install wxPython
 ```
-- Install [Codecs] package via `pip` command:
+- Install Codecs package via `pip` command:
 
 ```bash
 $ pip install codec
 ```
-- Install [Threading] package via `pip` command:
+- Install Threading package via `pip` command:
 
 ```bash
 $ pip install threading
 ```
-- Install [Itertools] package via `pip` command:
+- Install Itertools package via `pip` command:
 
 ```bash
 $ pip install itertools
 ```
-- Install [regex] package via `pip` command:
+- Install regex package via `pip` command:
 
 ```bash
 $ pip install regex
