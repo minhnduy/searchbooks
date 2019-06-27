@@ -39,7 +39,10 @@ $ pip install threading
 ```bash
 $ pip install itertools
 ```
+- Install [regex] package via `pip` command:
 
+```bash
+$ pip install regex
 
 
 ## Usage
