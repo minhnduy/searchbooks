@@ -43,7 +43,7 @@ $ pip install itertools
 
 ```bash
 $ pip install regex
-
+```
 
 ## Usage
 
